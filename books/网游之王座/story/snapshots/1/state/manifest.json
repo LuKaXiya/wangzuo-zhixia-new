@@ -1,28 +1,9 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 1,
+  "lastAppliedChapter": 12,
   "projectionVersion": 1,
   "migrationWarnings": [
-    "HK001:status normalized from \"埋设中\" to \"open\"",
-    "HK002:status normalized from \"埋设中\" to \"open\"",
-    "HK003:status normalized from \"埋设中\" to \"open\"",
-    "HK004:status normalized from \"埋设中\" to \"open\"",
-    "HK005:status normalized from \"埋设中\" to \"open\"",
-    "HK006:status normalized from \"埋设中\" to \"open\"",
-    "HK007:status normalized from \"埋设中\" to \"open\"",
-    "HK008:status normalized from \"埋设中\" to \"open\"",
-    "HK009:status normalized from \"埋设中\" to \"open\"",
-    "HK010:status normalized from \"埋设中\" to \"open\"",
-    "HK011:status normalized from \"埋设中\" to \"open\"",
-    "HK012:status normalized from \"埋设中\" to \"open\"",
-    "HK013:status normalized from \"埋设中\" to \"open\"",
-    "HK014:status normalized from \"埋设中\" to \"open\"",
-    "HK015:status normalized from \"埋设中\" to \"open\"",
-    "HK016:status normalized from \"埋设中\" to \"open\"",
-    "HK017:status normalized from \"埋设中\" to \"open\"",
-    "HK018:status normalized from \"埋设中\" to \"open\"",
-    "HK019:status normalized from \"埋设中\" to \"open\"",
-    "HK020:status normalized from \"埋设中\" to \"open\""
+    "current_state.json invalid, rebuilt from markdown"
   ]
 }

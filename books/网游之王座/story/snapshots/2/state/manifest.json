@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "language": "zh",
-  "lastAppliedChapter": 2,
-  "projectionVersion": 1,
-  "migrationWarnings": [
-    "manifest lastAppliedChapter normalized from 3 to 1"
-  ]
-}

@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "number": 1,
+    "title": "开服先抢·二",
+    "status": "drafted",
+    "wordCount": 9969,
+    "createdAt": "2026-03-28T14:57:33.800Z",
+    "updatedAt": "2026-03-28T14:57:33.800Z",
+    "auditIssues": [],
+    "lengthWarnings": [
+      "第1章经过一次字数归一化后仍超出硬区间（2546-4454，实际 9969）。"
+    ],
+    "lengthTelemetry": {
+      "target": 3500,
+      "softMin": 3023,
+      "softMax": 3977,
+      "hardMin": 2546,
+      "hardMax": 4454,
+      "countingMode": "zh_chars",
+      "writerCount": 5330,
+      "postWriterNormalizeCount": 9969,
+      "postReviseCount": 0,
+      "finalCount": 9969,
+      "normalizeApplied": true,
+      "lengthWarning": true
+    },
+    "tokenUsage": {
+      "promptTokens": 0,
+      "completionTokens": 0,
+      "totalTokens": 0
+    }
+  }
+]

@@ -1,14 +1,3 @@
 {
-  "rows": [
-    {
-      "chapter": 2,
-      "title": "猎人小屋",
-      "characters": "陆辰、老猎人",
-      "events": "陆辰在北境旧道发现老猎人npc，触发隐藏任务",
-      "stateChanges": "获得猎人地图",
-      "hookActivity": "H010 advancing",
-      "mood": "冷静",
-      "chapterType": "推进型章节"
-    }
-  ]
+  "rows": []
 }

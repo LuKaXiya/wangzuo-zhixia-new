@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "language": "zh",
-  "lastAppliedChapter": 2,
+  "lastAppliedChapter": 3,
   "projectionVersion": 1,
   "migrationWarnings": [
     "H024:status normalized from \"伏笔埋设\" to \"open\"",

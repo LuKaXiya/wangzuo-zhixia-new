@@ -1,4 +1,53 @@
 {
-  "chapter": 3,
-  "facts": []
+  "chapter": 12,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "Lv.7（67%），敏捷型剑士，HP满，体力已消耗，狼王护符异常激活中",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "西南湿地边缘（正在逃亡）",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "苍穹盟清场追杀（魏冥+血色小刀带队），目标：Lv.7林寒 + Lv.3晓风残念",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "晓风残念（Lv.3游侠）：获准跟随，非正式队友，有脑子但战力不足",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "甩脱苍穹盟追兵，继续升级冲十级解锁主城传送",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "苍穹盟追兵正在逼近（魏冥下令追踪），护符激活释放能量波动可能暴露位置",
+      "validFromChapter": 12,
+      "validUntilChapter": null,
+      "sourceChapter": 12
+    }
+  ]
 }
