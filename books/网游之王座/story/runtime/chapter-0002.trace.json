@@ -1,0 +1,33 @@
+{
+  "chapter": 2,
+  "plannerInputs": [
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/author_intent.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/current_focus.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/story_bible.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/volume_outline.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/book_rules.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/current_state.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/pending_hooks.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/chapter_summaries.md",
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/memory.db"
+  ],
+  "composerInputs": [
+    "/root/.openclaw/workspace/projects/wangzuo-zhixia-new/books/网游之王座/story/runtime/chapter-0002.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/current_state.md#当前限制",
+    "story/current_state.md#当前位置",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/chapter_summaries.md#1",
+    "story/pending_hooks.md#H001",
+    "story/pending_hooks.md#H002",
+    "story/pending_hooks.md#H003",
+    "story/pending_hooks.md#H005"
+  ],
+  "notes": []
+}

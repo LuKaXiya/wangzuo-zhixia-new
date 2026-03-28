@@ -1,0 +1,22 @@
+{
+  "avgSentenceLength": 12,
+  "sentenceLengthStdDev": 11.5,
+  "avgParagraphLength": 22,
+  "paragraphLengthRange": {
+    "min": 2,
+    "max": 200
+  },
+  "vocabularyDiversity": 0.13,
+  "topPatterns": [
+    "林寒...(72次)",
+    "\"1...(36次)",
+    "狼王...(22次)",
+    "\"你...(13次)",
+    "黑雾...(10次)"
+  ],
+  "rhetoricalFeatures": [
+    "短句节奏(119处)"
+  ],
+  "sourceName": "失落叶风格",
+  "analyzedAt": "2026-03-28T07:01:43.999Z"
+}
