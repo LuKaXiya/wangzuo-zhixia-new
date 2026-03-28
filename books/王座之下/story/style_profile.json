@@ -1,0 +1,19 @@
+{
+  "avgSentenceLength": 17.3,
+  "sentenceLengthStdDev": 7.8,
+  "avgParagraphLength": 74,
+  "paragraphLengthRange": {
+    "min": 3,
+    "max": 201
+  },
+  "vocabularyDiversity": 0.262,
+  "topPatterns": [
+    "- ...(91次)",
+    "##...(26次)",
+    "> ...(16次)",
+    "--...(5次)"
+  ],
+  "rhetoricalFeatures": [],
+  "sourceName": "docs/失落叶风格指导.md",
+  "analyzedAt": "2026-03-28T03:51:00.014Z"
+}

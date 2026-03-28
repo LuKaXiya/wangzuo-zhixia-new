@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 1,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H024:status normalized from \"伏笔埋设\" to \"open\"",
+    "H025:status normalized from \"伏笔埋设\" to \"open\"",
+    "H026:status normalized from \"伏笔埋设\" to \"open\""
+  ]
+}

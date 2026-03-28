@@ -1,0 +1,58 @@
+{
+  "hooks": [
+    {
+      "hookId": "H021",
+      "startChapter": 1,
+      "type": "资源/目标",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "2-3",
+      "notes": "矿主秘库需要两把钥匙开启，另一把来源不明（陈暮自称从\"其他人\"处获得）"
+    },
+    {
+      "hookId": "H022",
+      "startChapter": 1,
+      "type": "势力",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "5-8",
+      "notes": "苍穹盟背后有工作室支持，开服前已布局资源垄断"
+    },
+    {
+      "hookId": "H023",
+      "startChapter": 1,
+      "type": "人物",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "3-4",
+      "notes": "陈暮实力与等级不匹配（目测三级以上，但未正面透露），真实意图待观察"
+    },
+    {
+      "hookId": "H024",
+      "startChapter": 1,
+      "type": "规则",
+      "status": "open",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "6",
+      "notes": "精英怪存在\"仇恨阈值\"机制，可被地形利用"
+    },
+    {
+      "hookId": "H025",
+      "startChapter": 1,
+      "type": "世界观",
+      "status": "open",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "10+",
+      "notes": "夜间阶段机制：怪物等级+1、掉落+30%、视野-50%，影响战略决策"
+    },
+    {
+      "hookId": "H026",
+      "startChapter": 1,
+      "type": "区域",
+      "status": "open",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "2",
+      "notes": "北矿三采区存在未标注的废弃矿道入口，是绕过官方封锁的隐秘路线"
+    }
+  ]
+}

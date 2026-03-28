@@ -1,0 +1,53 @@
+{
+  "chapter": 0,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "《天战》公测开启前夕，主角即将进入新服起始区域",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "林寒，现实处境拮据，把游戏视为翻身机会；尚未进入正式战斗",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "进入游戏后尽快建立前期优势，抢到第一波有价值资源",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "1级开荒起步、资源稀缺、竞争激烈，主角尚未获得异常系统完整权限",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "敌：会争资源、抢机会的其他玩家与敌对势力；我：林寒单人起步，潜在队友尚未正式入场",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "公测首夜的资源竞争即将爆发，精英怪、掉落、副本资格与首通都会引发正面冲突",
+      "validFromChapter": 0,
+      "validUntilChapter": null,
+      "sourceChapter": 0
+    }
+  ]
+}
